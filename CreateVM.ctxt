@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=vm
+comment1.target=com.vmware.vim25.VirtualDevice[]\ getDefaultDevices(com.vmware.vim25.mo.VirtualMachine)
+comment2.params=vm
+comment2.target=com.vmware.vim25.VirtualDevice\ getIDEController(com.vmware.vim25.mo.VirtualMachine)
+comment3.params=vm
+comment3.target=com.vmware.vim25.DatastoreSummary\ getDataStoreSummary(com.vmware.vim25.mo.VirtualMachine)
+comment4.params=cKey
+comment4.target=com.vmware.vim25.VirtualDeviceConfigSpec\ createScsiSpec(int)
+comment5.params=dsName\ cKey\ diskSizeKB\ diskMode
+comment5.target=com.vmware.vim25.VirtualDeviceConfigSpec\ createDiskSpec(java.lang.String,\ int,\ long,\ java.lang.String)
+comment6.params=netName\ nicName
+comment6.target=com.vmware.vim25.VirtualDeviceConfigSpec\ createNicSpec(java.lang.String,\ java.lang.String)
+numComments=7

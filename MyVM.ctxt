@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyVM()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyVM\r\n
+comment1.params=
+comment1.target=void\ finalize()
+comment1.text=\r\n\ Destructor\ for\ objects\ of\ class\ MyVM\r\n
+comment2.params=name
+comment2.target=void\ powerOn(java.lang.String)
+comment2.text=\r\n\ Power\ On\ the\ Virtual\ Machine\r\n
+comment3.params=name
+comment3.target=void\ powerOff(java.lang.String)
+comment3.text=\r\n\ Power\ Off\ the\ Virtual\ Machine\r\n
+comment4.params=name
+comment4.target=void\ reset(java.lang.String)
+comment4.text=\r\n\ Reset\ the\ Virtual\ Machine\r\n
+comment5.params=name
+comment5.target=void\ suspend(java.lang.String)
+comment5.text=\r\n\ Suspend\ the\ Virtual\ Machine\r\n
+comment6.params=name
+comment6.target=void\ ForceShutDown(java.lang.String)
+comment7.params=
+comment7.target=void\ ShutDownAll()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
